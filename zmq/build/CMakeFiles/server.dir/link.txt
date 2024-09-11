@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/server.dir/server.c.o -o server  /usr/lib/x86_64-linux-gnu/libzmq.so 
