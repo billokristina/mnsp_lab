@@ -1,4 +1,0 @@
-/home/kbillo/mnsp_lab/lab1/build/CMakeFiles/client.dir
-/home/kbillo/mnsp_lab/lab1/build/CMakeFiles/server.dir
-/home/kbillo/mnsp_lab/lab1/build/CMakeFiles/edit_cache.dir
-/home/kbillo/mnsp_lab/lab1/build/CMakeFiles/rebuild_cache.dir
