@@ -15,8 +15,8 @@ find_library(ZeroMQ_LIBRARY
         PATHS ${PC_ZeroMQ_LIBRARY_DIRS}
         )
 
-add_executable(client client.c)
-add_executable(server server.c)
+add_executable(client tests/client.c)
+add_executable(server tests/server.c)
 
 target_include_directories(client PUBLIC ${ZeroMQ_INCLUDE_DIR})
 target_link_libraries(client PUBLIC ${ZeroMQ_LIBRARY})
